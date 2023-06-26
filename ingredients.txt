@@ -1,7 +1,8 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 *2tbsp cilantro
-=======
+OR
+*no cilantro
 *less salt
->>>>>>> less-salt
 *2 avocados
 *1/2 onions
